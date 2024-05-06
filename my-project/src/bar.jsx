@@ -13,8 +13,8 @@ function Bar () {
   // }
 return(
   <>
-  <div className="flex w-screen h-16 justify-between items-center px-10 text-xl font-medium ">
-    <button>Previous</button>
+  <div className=" ">
+    <button>Previous</button> 
     <div>Names of car</div>
     <button>Next</button>
   </div>
